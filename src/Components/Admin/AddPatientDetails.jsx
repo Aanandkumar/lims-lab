@@ -3273,5 +3273,5 @@ setTimeout(() => {
     </>
   );
 };
-
+ 
 export default AddPatientDetails;
